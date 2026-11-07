@@ -1,4 +1,4 @@
-const sorries = [
+export const sorries = [
     // short apologies
     "oops",
     "oopsie",
