@@ -117,7 +117,7 @@ const sorries = [
     // regret?
     "I regret everything",
     "I regret this",
-    "bad idea"
+    "bad idea",
 
     // corporate
     "my apologies, esteemed colleague",
@@ -200,7 +200,7 @@ const sorries = [
     "it broke",
     "it's broken",
     "it's so over",
-    "womp womp",
+    "womp womp"
 ]
 
 export default {
